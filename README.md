@@ -1,1 +1,1 @@
-# python3-space-invaders
+# Modular Space Invaders game
